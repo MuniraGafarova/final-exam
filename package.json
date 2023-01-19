@@ -1,0 +1,22 @@
+{
+  "name": "final-exam",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuniraGafarova/final-exam.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuniraGafarova/final-exam/issues"
+  },
+  "homepage": "https://github.com/MuniraGafarova/final-exam#readme",
+  "dependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
